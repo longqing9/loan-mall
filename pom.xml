@@ -14,6 +14,7 @@
         <module>loan-mall-member</module>
         <module>loan-mall-order</module>
         <module>loan-mall-ware</module>
+        <module>renren-fast</module>
     </modules>
 
 </project>
